@@ -15,5 +15,4 @@ Vitor Knupp   @vkcosta
 
 Implementamos todos os algoritmos de ordenação numérica vistos em sala de aula em um sistema desenvolvido em java com interfaces gráficas swing. colocamos estes algoritmos para ordenar sequencias numéricas variando de 100.000 até 700.000 de formas variadas. crescentes, decrescentes, aleatorios, distintos e repetidos. Após 3 sequências de execução em cada arquivo com cada algoritmo em cada método, armazenamos o resultado em um banco de dados Sqlite e extraímos esses dados para compilar o relatório presente neste repositório.
 
-
-valor 10 pts
+Os resultados obtidos a partir deste experimento estão no arquivo Análise.pdf
