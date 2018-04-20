@@ -7,6 +7,12 @@ Lembre-se de antes de iniciar testes em um PC diferente, apagar os registros do 
 ---------------------------------<br>
 Instrumento Complementar de Avaliação 01 da disciplina de Complexidade de Algoritmos.
 
-Trabalho em desenvolvimento desde 22/03/2018
+Trabalho iniciado em 22/03/2018 e concluido em 19/04/2018 03:10 BR
 
-valor 10 pts
+Desenvolvedores:
+Mateus Garcia @NaturesProphet
+Vitor Knupp   @vkcosta
+
+Implementamos todos os algoritmos de ordenação numérica vistos em sala de aula em um sistema desenvolvido em java com interfaces gráficas swing. colocamos estes algoritmos para ordenar sequencias numéricas variando de 100.000 até 700.000 de formas variadas. crescentes, decrescentes, aleatorios, distintos e repetidos. Após 3 sequências de execução em cada arquivo com cada algoritmo em cada método, armazenamos o resultado em um banco de dados Sqlite e extraímos esses dados para compilar o relatório presente neste repositório.
+
+Os resultados obtidos a partir deste experimento estão no arquivo Análise.pdf

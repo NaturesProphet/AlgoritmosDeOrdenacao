@@ -1006,7 +1006,7 @@ public class Script extends Thread {
                     long start = System.currentTimeMillis();
                     QuickSort(array, 0, array.length - 1);
                     long elapsed = System.currentTimeMillis() - start;
-                    AddRegistro(elementos(i), "cre", "rep", elapsed, "QuickSort");
+                    AddRegistro(elementos(i), "dec", "rep", elapsed, "QuickSort");
                     System.out.println("Registro de QuickSort decrescente "
                             + elementos(i) + " adicionado");
 
